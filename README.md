@@ -1,5 +1,4 @@
-
-![logo](Pro Developers Colorful Dark Gray & Orange LinkedIn Banner.png)
+![logo]([Pro Developers Colorful Dark Gray & Orange LinkedIn Banner.png](https://github.com/Amir-min/amir-min/blob/main/Pro%20Developers%20Colorful%20Dark%20Gray%20&%20Orange%20LinkedIn%20Banner.png?raw=true))
 <h1 align="center">Hi 👋, I'm Amir Ali</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
